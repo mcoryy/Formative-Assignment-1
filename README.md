@@ -99,21 +99,21 @@ Figure 5: Running the programme
 **Step 4: Use 'cd' to Change Directory into Your Project Folder**
 
 
-## Editing the Code
+### Editing the Code
 
 **Adding More Questions**
 
 Edit 'questions.py'
 - Add lines to the script, increasing the question number by 1 each line
 
-**Increase Difficulty**
+**Increasing the Difficulty**
 
 Create another question file:
 - Different files for easy and hard questions
 - Update the coding within 'main.py' to reflect where the questions should be drawn from
 
 
-## Known Limitations
+### Known Limitations
 
 - Only supports integer answers
 - After a correct answer the score automatically increases by one, so score is always 5/5
