@@ -81,9 +81,9 @@ Stores the quiz data.
 - Contains the correct integer answers
 - For example, ("Solve: 2x + 8 = 20", 6)
 
-## Cloning the Repo
+### Cloning the Repo
 
-### To Work with the Existing App
+#### To Work with the Existing App
 
 
 **Step 1: Copy and Paste the Link into Your Terminal to Create a Local Copy**
