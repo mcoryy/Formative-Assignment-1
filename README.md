@@ -83,22 +83,22 @@ Stores the quiz data.
 
 ## Cloning the Repo
 
-**To Work with the Existing App**
-
-To clone this repo, **Copy** and **Paste** the link in your terminal to create a local copy.
+### To Work with the Existing App**
 
 
-Figure 3: Copying the GitHub link
+**Step 1: Copy and Paste the Link into Your Terminal to Create a Local Copy**
 
-Open the project in VSCode.
+**Step 2: Open the project in VSCode**
 
 <img width="1341" height="787" alt="Screenshot 2026-07-03 at 15 50 33" src="https://github.com/user-attachments/assets/e73e71e3-cddf-40c8-86b6-180f0bd8c883" />
 Figure 4: Opening the project in VSCode
 
-Run the programme.
+**Step 3:Run the programme**
 
 <img width="1341" height="787" alt="Screenshot 2026-07-03 at 15 02 36" src="https://github.com/user-attachments/assets/80355489-4695-4de7-9d6a-3624efc1708e" />
 Figure 5: Running the programme
+
+**Step 4: Use 'cd' to Change Directory into Your Project Folder**
 
 ## Editing the Code
 
