@@ -46,7 +46,7 @@ To replay, type "clear" in your terminal, press **Enter** and then press the pla
 
 <img width="1341" height="787" alt="Screenshot 2026-07-03 at 15 40 05" src="https://github.com/user-attachments/assets/6c3fb95c-6f45-4c2f-80ee-78a272a5ef10" />
 Figure 2: Clearning the terminal
-# 
+
 
 ## Technical Documentation
 
