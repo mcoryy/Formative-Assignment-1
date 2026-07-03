@@ -1,5 +1,5 @@
 # Formative Assignment: Linear Equation's Quiz
-A coding tool that gives you five questions linear equation questions to answer. The tool will tell you whether you are right or wrong and give you a score out of five at the end.
+A coding tool that gives you five linear equation question's to answer. The tool will tell you whether you are right or wrong and give you a score out of five at the end.
 
 
 ## User Documentation
