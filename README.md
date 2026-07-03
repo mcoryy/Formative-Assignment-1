@@ -83,7 +83,7 @@ Stores the quiz data.
 
 ## Cloning the Repo
 
-### To Work with the Existing App**
+### To Work with the Existing App
 
 
 **Step 1: Copy and Paste the Link into Your Terminal to Create a Local Copy**
