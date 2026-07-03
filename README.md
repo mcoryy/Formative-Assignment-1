@@ -83,8 +83,6 @@ Stores the quiz data.
 
 ### Cloning the Repo
 
-#### To Work with the Existing App
-
 
 **Step 1: Copy and Paste the Link into Your Terminal to Create a Local Copy**
 
@@ -99,6 +97,7 @@ Figure 4: Opening the project in VSCode
 Figure 5: Running the programme
 
 **Step 4: Use 'cd' to Change Directory into Your Project Folder**
+
 
 ## Editing the Code
 
